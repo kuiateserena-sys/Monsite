@@ -8,6 +8,12 @@
 body{
 background-color: whitesmoke;
 }
+.main-container{
+    width: 100%;
+    margin: auto;
+
+    background-color: whitesmoke;
+}
 
 .about{
     width: 100%;
