@@ -1,0 +1,50 @@
+
+@media (max-width: 992px){
+
+.about{
+    padding:40px 20px;
+}
+
+h1,
+h2{
+    font-size:38px !important;
+}
+
+.container,
+.vision-container,
+.cards,
+.our-strategic-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:25px;
+}
+
+.left,
+.right,
+.vision-left,
+.vision-right{
+    width:100%;
+}
+
+.card{
+    width:100% !important;
+    max-width:500px;
+    height:auto !important;
+    left:0 !important;
+    top:0 !important;
+    margin:15px auto;
+}
+
+img{
+    width:100% !important;
+    height:auto !important;
+    display:block;
+}
+
+.btn{
+    display:inline-block;
+    margin:30px auto !important;
+}
+
+}
