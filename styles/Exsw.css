@@ -30,9 +30,7 @@ background-color: whitesmoke;
 h1{
     font-size: 55px;
     color: #0b4d75;
-    text-align: center;
-
- 
+    
 }
 
 span{
@@ -126,17 +124,9 @@ span{
     top:-40px;
     right:-40px;
     gap: 1%;
-}
-
-
-.card h3{
-
-    color:#0b4d75;
-    margin-bottom:18px; 
-    margin-top: -40px;
-    margin-left: 70px;
    
 }
+
 
 
 .card h3{
@@ -144,12 +134,13 @@ span{
     color:#0b4d75;
     margin-bottom:18px;
     font-size:30px;
+    margin-top: -70px;
+    margin-left: 70px;
 
 }
 
 .card p{
     color:#6c7b92;
-   
     font-size:17px;
     gap: 20px;
     margin-top: 20px;
@@ -162,10 +153,9 @@ span{
    
     font-size: 20px; 
     border-radius:8px; 
-    margin: 800px; 
+    margin: 820px; 
     padding: 15px; 
     background:#00719b;
-    left: 700px;
     margin-top: -900px;
     text-align: center;
     color: white;
