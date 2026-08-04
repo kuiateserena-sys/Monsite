@@ -100,3 +100,22 @@ p {
 .container-box-2 img {
     border-radius: 20px;
 }
+
+.blue-background {
+    transition: all 0.8s ease;
+
+    background-color: blue;
+}
+
+#serena{
+    cursor: pointer;
+    
+}
+
+.text-white {
+    color: rgb(228, 13, 13);
+}
+
+.hidden-box{
+    display: none;
+}
